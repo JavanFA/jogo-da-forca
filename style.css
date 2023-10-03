@@ -10,9 +10,6 @@ body {
     font-family:'Shadows Into Light', cursive;
   }
 
-  h1 {
-    font-size: 2.5em;
-  }
   
   .jogo-container {
     display: flex;
@@ -78,7 +75,7 @@ body {
   }
   
   .popup {
-    background: #2980b9;
+    background: #29b941;
     border-radius: 5px;
     box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -94,3 +91,17 @@ body {
     font-size: 16px;
   }
   
+p {
+    margin-top: 10px;
+  }
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: #29b941;
+}
+
+
